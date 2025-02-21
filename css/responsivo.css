@@ -1,5 +1,8 @@
-@media(max-width: 414px){
+@media(max-width: 600px){
 
+    html{
+        width: 100%;
+    }
     body{
         background-image: url(../Imagens/wallpaper.jpg);
         background-size: cover;
